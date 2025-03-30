@@ -1,6 +1,6 @@
 # vext-cli
 
-[![Version](https://img.shields.io/npm/v/vext-cli.svg)](https://www.npmjs.com/package/vext-cli)[![License](https://img.shields.io/npm/l/vext-cli.svg)](LICENSE) [English](README_EN.md) [简体中文](README.md)
+[![Version](https://img.shields.io/npm/v/create-vext.svg)](https://www.npmjs.com/package/create-vext)[![License](https://img.shields.io/npm/l/create-vext.svg)](LICENSE) [English](README_EN.md) [简体中文](README.md)
 
 `vext-cli` 是一个用于快速创建和配置 [Vext](https://github.com/waahah/VExt) 项目的命令行脚手架工具。它可以帮助你轻松地初始化项目、配置项目名称、复制模板并安装依赖，节省开发初期的时间和精力。
 
@@ -18,9 +18,9 @@
 
 确保你已经安装 [Node.js](https://nodejs.org/)（版本 18 或以上）以及 `npm` 或 `yarn`。
 ```bash
-npm install -g vext-cli
+npm install -g create-vext
 # 或者使用 yarn
-yarn global add vext-cli
+yarn global add create-vext
 ```
 
 ## 使用方法

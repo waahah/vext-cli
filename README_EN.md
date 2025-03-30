@@ -1,6 +1,6 @@
 # vext-cli
 
-[![Version](https://img.shields.io/npm/v/vext-cli.svg)](https://www.npmjs.com/package/vext-cli)[![License](https://img.shields.io/npm/l/vext-cli.svg)](LICENSE) [English](README_EN.md) [简体中文](README.md)
+[![Version](https://img.shields.io/npm/v/create-vext.svg)](https://www.npmjs.com/package/create-vext)[![License](https://img.shields.io/npm/l/create-vext.svg)](LICENSE) [English](README_EN.md) [简体中文](README.md)
 
 ` vext - cli ` is a used to quickly create and configure [vext](https://github.com/waahah/VExt)  command-line scaffolding toolsproject. It helps you easily initialize projects, configure project names, copy templates, and install dependencies, saving time and effort in the early stages of development.
 
@@ -19,9 +19,9 @@
 Make sure you have [Node.js](https://nodejs.org/) (version 18 or later) and `npm` or `yarn` installed.
 
 ```bash
-npm install -g vext-cli
+npm install -g create-vext
 # Or use yarn
-yarn global add vext-cli
+yarn global add create-vext
 ```
 
 ## How to use
