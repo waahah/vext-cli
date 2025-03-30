@@ -8,6 +8,13 @@
   "scripts": {
     "start": "node ./bin/vext.js"
   },
+  "keywords": ["cli", "scaffold", "vext", "webextension"],
+  "author": "waahah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waahah/vext-cli"
+  },
   "dependencies": {
     "axios": "^1.8.4",
     "chalk": "^5.3.0",
